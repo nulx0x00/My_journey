@@ -1,10 +1,10 @@
 # Daily Review Template
 
-Date:
+Date: 18-06-2026
 
 ## Python
 
-What did I build?
+I built my own password genrator in pyhton and i pushed it to github and fixed few bug in it.
 
 ## Cybersecurity
 
